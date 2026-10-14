@@ -13,4 +13,10 @@
 
 ---
 
+GitHub Stats（統計情報）:
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=watasan1&show_icons=true&theme=radical)
+
 Happy Hacking:)
+
+
