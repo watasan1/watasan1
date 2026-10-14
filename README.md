@@ -19,9 +19,13 @@ GitHub Stats（統計情報）:
 
 Top Languages（使用言語）:
 
-```markdown
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=watasan1&layout=compact)
-```
+
+
+GitHub Streak（連続記録）:
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=watasan1&theme=radical)
 
 
 ---
