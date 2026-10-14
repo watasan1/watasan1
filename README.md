@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋 I'm Wata
 
-<!--
-**watasan1/watasan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
 
-Here are some ideas to get you started:
+- 今取り組んでいること: html css javascript Wordpressでサイト作成
+- 学習中の内容: React TypeScript 等　アプリ作成まで取り組みたい
+- 一緒に取り組みたいこと: もくもく会を開催してみたいです
+- 助けて欲しいこと: 手軽なもくもく会会場を探しています。
+- 気軽に聞いて欲しいこと: サイト制作
+- 連絡方法: https://x.com/hishiwata7
+- あだ名: わたさん
+- ちょっとした豆知識:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Happy Hacking:)
