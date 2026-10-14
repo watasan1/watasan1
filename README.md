@@ -17,6 +17,15 @@ GitHub Stats（統計情報）:
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=watasan1&show_icons=true&theme=radical)
 
+Top Languages（使用言語）:
+
+```markdown
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=watasan1&layout=compact)
+```
+
+
+---
+
 Happy Hacking:)
 
 
