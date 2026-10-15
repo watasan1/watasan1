@@ -25,7 +25,7 @@ Top Languages（使用言語）:
 
 GitHub Streak（連続記録）:
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=watasan1&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=watasan1&theme=radical)
 
 ---
 
